@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Antony Prince J</h1>
-<h3 align="center">Ever curious backend developer highly interested in the field of Blockchain. Primarily working on Ethereum and Quorum along with solidity to build smart contracts. Public speaker, Freelance website developer ,Android App developer and Data science enthusiast.</h3>
+<h3 align="center">Ever curious backend developer highly interested in the field of Blockchain. Primarily working on Ethereum and Quorum along with solidity to build smart contracts. Developed applications and REST apis with Node.js and have worked with mongodb and cloud firestore. Public speaker, Freelance website developer ,Android App developer and Data science enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codedecoder01" alt="codedecoder01" /> </p>
 
-- 🌱 I’m currently learning **Go,Docker,React.js**
+- 🌱 I’m currently learning **Go,Docker,React.js,Selenium**
 
 - 💬 Ask me about **Node.js, flask, python, solidity, C, C++, Java**
 
+- 👨‍💻 Check out my freelance work at [https://www.elitedoctorsconsultancy.in](https://www.elitedoctorsconsultancy.in)
+
 - 📫 How to reach me **antoprince001@gmail.com**
+
 <hr></hr>
 <p align="center">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -28,6 +31,7 @@
 <hr></hr>
 <p align="center">
 <a href="https://linkedin.com/in/antoprince001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antoprince001" height="30" width="30" /></a>
+<a href="https://www.quora.com/profile/Antony-Prince-7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="antoprince001" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009732318389" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="antony prince" height="30" width="30" /></a>
 <a href="https://instagram.com/antoprince001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="antoprince001" height="30" width="30" /></a>
 </p>
