@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony Prince J</h1>
 <h3 align="center">Ever curious backend developer highly interested in the field of Blockchain. Primarily working on Ethereum and Quorum along with solidity to build smart contracts. Developed applications and REST APIs with Node.js and have worked with mongodb and cloud firestore. Public speaker, Freelance website developer ,Android App developer and Data science enthusiast.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codedecoder01" alt="codedecoder01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=antoprince001" alt="antoprince001" /> </p>
 
 - 🌱 I’m currently learning **Go,Docker,React.js,Selenium**
 
@@ -27,7 +27,8 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </p><hr></hr>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codedecoder01&show_icons=true" alt="codedecoder01" /></p>
+ 
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoprince001&show_icons=true" alt="antoprince001" /></p>
 <hr></hr>
 <p align="center">
 <a href="https://linkedin.com/in/antoprince001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antoprince001" height="30" width="30" /></a>
