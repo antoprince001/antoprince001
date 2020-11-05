@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antony Prince J</h1>
-<h4 align="center">Ever curious backend developer highly interested in the field of Blockchain. Primarily working on Ethereum and Quorum along with solidity to build smart contracts. Developed applications and REST APIs with Node.js and have worked with mongodb and cloud firestore. Public speaker, Freelance website developer ,Android App developer and Data science enthusiast.</h4>
+<h4 align="center">Ever curious backend developer highly interested in the field of Blockchain. Currently pursuing Third year in Information Technology at St.Joseph's College of Engineering.Primarily working on Ethereum and Quorum along with solidity to build smart contracts. Developed applications and REST APIs with Node.js and have worked with mongodb and cloud firestore. Public speaker, Freelance website developer ,Android App developer and Data science enthusiast.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoprince001" alt="antoprince001" /> </p>
 
 - 🌱 I’m currently learning **Go,Docker,React.js,Selenium**
 
-- 💬 Ask me about **Node.js, flask, python, solidity, C, C++, Java**
+- 💬 Ask me about **Node.js, Flask, python, solidity, C, C++, Java,Ethereum**
+
+- 💻 View my portfolio at [http://antoprince001.github.io](http://antoprince001.github.io)
 
 - 👨‍💻 Check out my freelance work at [https://www.elitedoctorsconsultancy.in](https://www.elitedoctorsconsultancy.in) , [http://www.baeon.co](http://www.baeon.co)
 
