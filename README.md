@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoprince001" alt="antoprince001" /> </p>
 
-- 🌱 I’m currently learning **Go,Docker,React.js,Selenium**
+- 🌱 I’m currently learning **Spring Boot,Docker,PyTorch,Selenium**
 
-- 💬 Ask me about **Node.js, Flask, python, solidity, C, C++, Java,Ethereum**
+- 💬 Ask me about **Node.js, React.js, Flask, Python, Solidity, C, C++, Java,Ethereum**
 
 - 💻 View my portfolio at [http://antoprince001.github.io](http://antoprince001.github.io)
 
