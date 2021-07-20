@@ -9,12 +9,12 @@
 
 - 💻 View my portfolio at [http://antoprince001.github.io](http://antoprince001.github.io)
 
-- 👨‍💻 Check out my freelance work at [https://www.elitedoctorsconsultancy.in](https://www.elitedoctorsconsultancy.in) , [http://www.baeon.co](http://www.baeon.co)
+- 👨‍💻 Check out my freelance work at [https://www.elitedoctorsconsultancy.in](https://elitedoctorsconsultancy-3291a.web.app/) , [http://www.baeon.co](http://www.baeon.co)
 
 - 📫 How to reach me **antoprince001@gmail.com**
 
 <hr></hr>
-<p align="center">
+<!-- <p align="center">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -28,7 +28,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </p><hr></hr>
+ </p><hr></hr> -->
  
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoprince001&show_icons=true" alt="antoprince001" /></p>
 <hr></hr>
