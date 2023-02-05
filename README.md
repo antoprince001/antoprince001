@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **data governance and data engineering tool evaluation for enterprises.**
 
-- 🌱 I’m currently learning **Typescript, GCP, Airflow, Spark, Docker and Kubernetes**
+- 🌱 I’m currently learning **Typescript, Neo4j, Airflow, Spark, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://antoprince001.github.io/](https://antoprince001.github.io/)
 
