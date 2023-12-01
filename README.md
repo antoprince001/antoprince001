@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Prince J</h1>
-<h3 align="center">Ever curious developer highly interested in the field of Blockchain and Data Engineering. Currently working as an Data Engineer - Consultant at Thoughtworks. <br> Ethereum Blockchain developer , Public speaker , Backend developer , Data engineering enthusiast.</h3>
+<h3 align="center">Ever curious developer highly interested in the field of Blockchain and Data Engineering. Currently working as Data Engineer - Consultant at Thoughtworks. <br> Ethereum Blockchain developer , Public speaker , Backend developer , Data engineering enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoprince001&label=Profile%20views&color=0e75b6&style=flat" alt="antoprince001" /> </p>
 
