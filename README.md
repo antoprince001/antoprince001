@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **data governance and data engineering tool evaluation for enterprises.**
 
-- 🌱 I’m currently learning **Typescript, Neo4j, Airflow, Spark, Docker and Kubernetes**
+- 🌱 I’m currently learning **Rust, Airflow, Terraform, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://antoprince001.github.io/](https://antoprince001.github.io/)
 
-- 💬 Ask me about **Node.js, React.js, Flask, Python, Solidity, C, C++, Java, Ethereum, Spring Boot**
+- 💬 Ask me about **Node.js, React.js, Flask, Python, Solidity, Java, Ethereum, Spring Boot, Apache Spark, Databricks, Microsoft Azure**
 
 - 📫 How to reach me **antoprince001@gmail.com**
 
