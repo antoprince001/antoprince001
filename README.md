@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoprince001&label=Profile%20views&color=0e75b6&style=flat" alt="antoprince001" /> </p>
 
 
-- 🔭 I’m currently working on **data governance and data engineering tool evaluation for enterprises.**
-
 - 🌱 I’m currently learning **Rust, Airflow, Terraform, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://antoprince001.github.io/](https://antoprince001.github.io/)
